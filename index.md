@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'A team as an Early Adopter, a Cooperator, and a Supporter'
 description: null
 image: null
 author: null
