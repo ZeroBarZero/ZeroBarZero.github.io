@@ -2,7 +2,7 @@
 title: 0-0
 subtitle: Zero bar Zero
 email: whitepigeon77@gmail.com
-description: Everyone in the team wears glasses. Mainly do web development<br /> Sunday web-dev group.
+description: Everyone in the team wears glasses. Mainly do web development. Sunday web-dev group.
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://zerobarzero.github.io/ # the base hostname & protocol for your site
 author: 
@@ -26,7 +26,7 @@ googleplus_url:
 instagram_url:
 linkedin_url: 
 pinterest_url:
-slack_url:
+slack_url: https://asdf-xm48882.slack.com
 twitter_url: 
 
 # build settings
